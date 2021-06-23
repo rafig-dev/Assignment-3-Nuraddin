@@ -1,0 +1,13 @@
+--------------------------------------------------------
+C:\\JavaSources\\FileTraining\\resources\\docs\\personal
+
+C:\\JavaSources\\FileTraining\\resources\\docs\\books\\russian
+
+C:\\JavaSources\\FileTraining\\resources\\music
+
+C:\\JavaSources\\FileTraining\\resources\\img
+
+C:\\JavaSources\\FileTraining\\resources\\video
+
+C:\\JavaSources\\FileTraining\\dest
+--------------------------------------------------------
